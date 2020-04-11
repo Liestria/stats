@@ -1,5 +1,5 @@
 
-#' Myci
+#' My Confidence Intervals
 #'
 #' @param x
 #'
