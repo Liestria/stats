@@ -1,6 +1,8 @@
 #' My P Value
 #'
-#' This helps us determine what the P value is.
+#' This helps us determine what the P value is
+#'
+#' It will create a graph representation of what the curve looks like.
 #'
 #' @param t0
 #' @param xmax

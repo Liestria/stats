@@ -2,7 +2,7 @@
 % Please edit documentation in R/myci.R
 \name{myci}
 \alias{myci}
-\title{Myci}
+\title{My Confidence Intervals}
 \usage{
 myci(x)
 }
@@ -13,7 +13,7 @@ myci(x)
 
 }
 \description{
-Myci
+This uses the T test to show the confidence intervals for a 95% confidence level.
 }
 \examples{
 set.seed(23);x = rnorm(30,mean=10,sd=12)
