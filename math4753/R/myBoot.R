@@ -1,5 +1,7 @@
 #' MyBoot
 #'
+#' This function helps us create a histogram
+#'
 #' @param iter
 #' @param x
 #' @param fun
