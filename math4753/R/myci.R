@@ -1,6 +1,9 @@
 
 #' My Confidence Intervals
 #'
+#'This uses the T test to show the confidence intervals for a 95% confidence level.
+#'
+#'
 #' @param x
 #'
 #' @return
