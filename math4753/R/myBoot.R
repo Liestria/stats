@@ -1,6 +1,6 @@
 #' MyBoot
 #'
-#' This function helps us create a histogram
+#' This function helps us create a histogram using bootstrapping
 #'
 #' @param iter
 #' @param x
