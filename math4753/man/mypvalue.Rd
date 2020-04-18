@@ -13,7 +13,10 @@ mypvalue(t0, xmax = 4, n = 20, alpha = 0.05)
 P value
 }
 \description{
-This helps us determine what the P value is.
+This helps us determine what the P value is
+}
+\details{
+It will create a graph representation of what the curve looks like.
 }
 \examples{
 

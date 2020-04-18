@@ -13,7 +13,7 @@ myboot2(iter = 10000, x, fun = "mean", alpha = 0.05, cx = 1.5, ...)
 a histrogram using the bootstrap function
 }
 \description{
-This function helps us create a histogram
+This function helps us create a histogram using bootstrapping
 }
 \examples{
 set.seed(39); sam=rnorm(25,mean=25,sd=10)

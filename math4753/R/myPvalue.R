@@ -14,7 +14,9 @@
 #'
 #' @examples
 #'
-#' mypvalue(tcalc, xmax=4, n=30, alpha=0.05)
+#' set.seed(55);x1=rnorm(30,mean=25,sd=5);
+#' tcalc = (mean(x1)-24)/(sd(x1)/sqrt(30));
+#' math4753::mypvalue(tcalc, xmax=4, n=30, 0.05);
 #'
 mypvalue=function(t0,xmax=4,n=20, alpha=0.05){
   #calculate alpha/2

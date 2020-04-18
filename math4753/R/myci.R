@@ -16,4 +16,3 @@
 myci = function(x) {
   t.test(x, var.equal=TRUE, conf.level=0.95)$conf.int
 }
-myci
